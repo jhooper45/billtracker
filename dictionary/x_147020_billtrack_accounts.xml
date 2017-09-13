@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Vendors" max_length="40" name="x_147020_billtrack_accounts" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor name" max_length="40" name="u_bill_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Account type" max_length="40" name="u_choice_12" type="string">
+            <choice>
+                <element label="Checking" sequence="0" value="1"/>
+                <element label="Utility Bill" sequence="1" value="3"/>
+                <element label="Credit" sequence="2" value="2"/>
+                <element label="Business Credit" sequence="3" value="4"/>
+                <element label="Mortgage" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="Monthly Due Date" max_length="40" name="u_due_date_2" type="due_date"/>
+        <element label="New Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element label="How long have you had this account?" max_length="40" name="u_glide_duration_13" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor website" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account number" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account name" max_length="40" name="u_string_8" type="string"/>
+        <element label="New URL" max_length="1024" name="u_url_5" type="url"/>
+    </element>
+</database>

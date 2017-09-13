@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Expense">12b139030f0d4300532b06bce1050eb5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-11 11:35:56</sys_created_on>
+        <sys_id>8576f5070f0d4300532b06bce1050e46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Expense</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8576f5070f0d4300532b06bce1050e46</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-11 11:35:56</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

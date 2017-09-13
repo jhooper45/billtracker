@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_147020_billtrack_accounts" label="Invoice" max_length="40" name="x_147020_billtrack_invoice" type="collection">
+        <element label="New Due Date" max_length="40" name="u_due_date_3" type="due_date"/>
+        <element label="New HTML" max_length="65536" name="u_html_4" type="html"/>
+        <element attributes="omit_sys_original=true" label="Invoice total" max_length="20" name="u_invoice_total" type="currency"/>
+    </element>
+</database>

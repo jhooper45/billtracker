@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expenses" max_length="40" name="x_147020_billtrack_expenses" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="New Audio" max_length="40" name="u_audio_5" type="audio"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_7" type="data_structure"/>
+        <element attributes="omit_sys_original=true" label="Expense Amount" max_length="20" name="u_expense_amount" type="currency"/>
+        <element label="When did the expense occur?" mandatory="true" max_length="40" name="u_expense_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description of Expense" max_length="40" name="u_expense_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Receipt" label="Expense Type" max_length="40" name="u_expense_type" type="string">
+            <choice>
+                <element label="Receipt" sequence="0" value="Receipt"/>
+                <element label="Cash" sequence="1" value="Cash"/>
+                <element label="Mileage" sequence="2" value="Mileage"/>
+                <element label="Other Reimbursement" sequence="3" value="Other Reimbursement"/>
+            </choice>
+        </element>
+        <element label="Do you have a receipt?" max_length="40" name="u_receipt_boolean" type="boolean"/>
+    </element>
+</database>

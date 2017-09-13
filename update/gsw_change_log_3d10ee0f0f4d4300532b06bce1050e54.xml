@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2017-09-11 14:37:50</change_date>
+        <changed_by display_value="Jonah Hooper">c3ba7df60f100300532b06bce1050e4f</changed_by>
+        <content display_value="Weighted Allocation Metrics">a6fd6d5dfd452200964f664ebbfc26c7</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-11 14:37:50</sys_created_on>
+        <sys_id>3d10ee0f0f4d4300532b06bce1050e54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2017-09-11 14:37:50</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>gsw_change_log_3d10ee0f0f4d4300532b06bce1050e54</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-11 14:37:50</sys_updated_on>
+        <type>4</type>
+    </gsw_change_log>
+</record_update>

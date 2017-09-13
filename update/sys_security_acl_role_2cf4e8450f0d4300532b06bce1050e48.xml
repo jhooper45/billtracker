@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-05 00:31:59</sys_created_on>
+        <sys_id>2cf4e8450f0d4300532b06bce1050e48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_147020_billtrack_bills_due.x_147020_billtrack.user</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_security_acl display_value="x_147020_billtrack_bills_due">ecf4e8450f0d4300532b06bce1050e44</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2cf4e8450f0d4300532b06bce1050e48</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-05 00:31:59</sys_updated_on>
+        <sys_user_role display_value="x_147020_billtrack.user" name="x_147020_billtrack.user">8833a4050f0d4300532b06bce1050e70</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_security_acl" version="2" view="RPTd1993317df23210068c37a0d3df26328">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>172f32cd0f418300532b06bce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operation</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>9b2f32cd0f418300532b06bce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>1f2f32cd0f418300532b06bce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>admin_overrides</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>9f2f32cd0f418300532b06bce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>condition</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>132f32cd0f418300532b06bce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>script</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>932f32cd0f418300532b06bce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>172f32cd0f418300532b06bce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>column_side</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>972f32cd0f418300532b06bce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table_side</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="9f2f32cd0f418300532b06bce1050e64">9b2f32cd0f418300532b06bce1050e65</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_id>1b2f32cd0f418300532b06bce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_security_acl</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 11:45:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b2f32cd0f418300532b06bce1050e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_security_acl</sys_name>
+            <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+            <sys_update_name>sys_ui_list_sys_security_acl_RPTd1993317df23210068c37a0d3df26328</sys_update_name>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 11:45:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptd1993317df23210068c37a0d3df26328" name="RPTd1993317df23210068c37a0d3df26328">9f2f32cd0f418300532b06bce1050e64</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

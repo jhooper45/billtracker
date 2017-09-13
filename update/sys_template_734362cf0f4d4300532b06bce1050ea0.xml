@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-11 14:52:51</sys_created_on>
+        <sys_id>734362cf0f4d4300532b06bce1050ea0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_template_734362cf0f4d4300532b06bce1050ea0</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-11 14:52:51</sys_updated_on>
+        <table>customer_account</table>
+        <template>customer=true^EQ</template>
+        <user display_value="Jonah Hooper">c3ba7df60f100300532b06bce1050e4f</user>
+        <view/>
+    </sys_template>
+</record_update>

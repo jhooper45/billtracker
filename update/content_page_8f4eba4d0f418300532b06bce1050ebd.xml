@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-09-13 13:38:57">
+    <sys_portal action="delete_multiple" query="page=8f4eba4d0f418300532b06bce1050ebd">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="">8f4eba4d0f418300532b06bce1050ebd</page>
+                <summary/>
+                <sys_created_by>jhooper</sys_created_by>
+                <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                <sys_id>7b418f010f818300532b06bce1050e55</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>jhooper</sys_updated_by>
+                <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-09-05 04:55:09">7b418f010f818300532b06bce1050e55</portal_section>
+                        <sys_created_by>jhooper</sys_created_by>
+                        <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                        <sys_id>73418f010f818300532b06bce1050e56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>jhooper</sys_updated_by>
+                        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-09-05 04:55:09">7b418f010f818300532b06bce1050e55</portal_section>
+                        <sys_created_by>jhooper</sys_created_by>
+                        <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                        <sys_id>77418f010f818300532b06bce1050e56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>jhooper</sys_updated_by>
+                        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                        <value>*New IFrame</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-09-05 04:55:09">7b418f010f818300532b06bce1050e55</portal_section>
+                        <sys_created_by>jhooper</sys_created_by>
+                        <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                        <sys_id>fb418f010f818300532b06bce1050e55</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>jhooper</sys_updated_by>
+                        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                        <value>50578ef9c0a80006005ee11e0d61cb8f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-09-05 04:55:09">7b418f010f818300532b06bce1050e55</portal_section>
+                        <sys_created_by>jhooper</sys_created_by>
+                        <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                        <sys_id>fb418f010f818300532b06bce1050e56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>jhooper</sys_updated_by>
+                        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-09-05 04:55:09">7b418f010f818300532b06bce1050e55</portal_section>
+                        <sys_created_by>jhooper</sys_created_by>
+                        <sys_created_on>2017-09-05 11:55:09</sys_created_on>
+                        <sys_id>ff418f010f818300532b06bce1050e56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>jhooper</sys_updated_by>
+                        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+                        <value>8f4eba4d0f418300532b06bce1050ebd</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site/>
+        <content_theme/>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>BillTracker</name>
+        <order/>
+        <parent_page/>
+        <read_roles>public</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-05 11:42:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f4eba4d0f418300532b06bce1050ebd</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>BillTracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>content_page_8f4eba4d0f418300532b06bce1050ebd</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-05 11:55:09</sys_updated_on>
+        <title/>
+        <url_suffix/>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

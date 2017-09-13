@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_12" table="x_147020_billtrack_accounts" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_12</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Checking</label>
+            <language>en</language>
+            <name>x_147020_billtrack_accounts</name>
+            <sequence>0</sequence>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e99724c50f0d4300532b06bce1050ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_12</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Utility Bill</label>
+            <language>en</language>
+            <name>x_147020_billtrack_accounts</name>
+            <sequence>1</sequence>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d9724c50f0d4300532b06bce1050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_12</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit</label>
+            <language>en</language>
+            <name>x_147020_billtrack_accounts</name>
+            <sequence>2</sequence>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>299724c50f0d4300532b06bce1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_12</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Credit</label>
+            <language>en</language>
+            <name>x_147020_billtrack_accounts</name>
+            <sequence>3</sequence>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>259724c50f0d4300532b06bce1050eac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_12</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage</label>
+            <language>en</language>
+            <name>x_147020_billtrack_accounts</name>
+            <sequence>4</sequence>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>219724c50f0d4300532b06bce1050ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_12</element>
+            <name>x_147020_billtrack_accounts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-05 00:43:31</sys_created_on>
+            <sys_id>e59724c50f0d4300532b06bce1050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_12</sys_name>
+            <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+            <sys_update_name>sys_choice_x_147020_billtrack_accounts_u_choice_12</sys_update_name>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-05 00:43:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="48caa94b0fc94300532b06bce1050e5a" sys_domain="global" table="x_147020_billtrack_expenses" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expense_type</element>
+            <position>0</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>d04d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expense_amount</element>
+            <position>1</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>544d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_receipt_boolean</element>
+            <position>2</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>d44d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>584d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expense_date</element>
+            <position>4</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>d84d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_expense_desc</element>
+            <position>5</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>5c4d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_data_structure_7</element>
+            <position>6</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:55:45</sys_created_on>
+            <sys_id>dc4d694f0fc94300532b06bce1050e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_expenses" sys_domain="global" view="Default view">48caa94b0fc94300532b06bce1050e5a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:55:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_147020_billtrack_expenses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-11 10:44:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48caa94b0fc94300532b06bce1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_147020_billtrack_expenses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+            <sys_update_name>sys_ui_section_48caa94b0fc94300532b06bce1050e5a</sys_update_name>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-11 10:44:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
