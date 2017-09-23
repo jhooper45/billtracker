@@ -88,19 +88,19 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jhooper</sys_created_by>
-            <sys_created_on>2017-09-11 11:29:41</sys_created_on>
+            <sys_created_on>2017-09-11 10:51:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e50539830f0d4300532b06bce1050e88</sys_id>
+            <sys_id>ac6c69cb0fc94300532b06bce1050ee8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name/>
-            <sys_package/>
+            <sys_name>x_147020_billtrack_expenses</sys_name>
+            <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
             <sys_policy/>
             <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
-            <sys_update_name/>
+            <sys_update_name>sys_ui_list_x_147020_billtrack_expenses_null</sys_update_name>
             <sys_updated_by>jhooper</sys_updated_by>
-            <sys_updated_on>2017-09-11 11:29:41</sys_updated_on>
-            <sys_user display_value="Jonah Hooper">c3ba7df60f100300532b06bce1050e4f</sys_user>
+            <sys_updated_on>2017-09-11 10:51:56</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

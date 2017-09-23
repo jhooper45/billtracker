@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="New Bill" max_length="40" name="x_147020_billtrack_new_bill" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Accounts" max_length="32" name="u_accounts_from" reference="x_147020_billtrack_accounts" type="reference"/>
+        <element attributes="omit_sys_original=true" default="0" label="Amount Due" max_length="20" name="u_amount_due" type="currency"/>
+        <element label="Note" max_length="40" name="u_bill_note" type="longint"/>
+        <element label="Start Date" max_length="40" name="u_bill_start_date" type="glide_date"/>
+        <element label="Category" max_length="32" name="u_category_bill" reference="x_147020_billtrack_categories" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Notification Preferences" max_length="40" name="u_notification_bill" type="string">
+            <choice>
+                <element label="Add Reminder with Recurring" sequence="0" value="1"/>
+                <element label="Add Reminder without Recurring" sequence="1" value="2"/>
+                <element label="No Reminder" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Bill Name" max_length="40" name="u_string_1" type="string"/>
+        <element choice="1" default="Other" label="Occurs" max_length="40" name="u_time_bill" type="glide_time">
+            <choice>
+                <element label="Once" sequence="0" value="Once"/>
+                <element label="Monthly" sequence="1" value="Monthly"/>
+                <element label="Yearly" sequence="2" value="Yearly"/>
+                <element label="Other" sequence="3" value="Other"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_accounts_from"/>
+        </index>
+        <index name="index2">
+            <element name="u_category_bill"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a80ec48b0f5d0300532b06bce1050e0c" sys_domain="global" table="x_147020_billtrack_new_bill" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-23 14:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>600ec48b0f5d0300532b06bce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_147020_billtrack_new_bill" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">a80ec48b0f5d0300532b06bce1050e0c</sys_ui_form>
+            <sys_ui_section caption=" Add a New Bill" display_value=" Add a New Bill" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">a40ec48b0f5d0300532b06bce1050e0b</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-23 14:15:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-23 14:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c0ec48b0f5d0300532b06bce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_147020_billtrack_new_bill" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">a80ec48b0f5d0300532b06bce1050e0c</sys_ui_form>
+            <sys_ui_section caption="Time Period" display_value="Time Period" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">ac0ec48b0f5d0300532b06bce1050e0b</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-23 14:15:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-23 14:22:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cbfc4cb0f5d0300532b06bce1050ee1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_147020_billtrack_new_bill" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">a80ec48b0f5d0300532b06bce1050e0c</sys_ui_form>
+            <sys_ui_section caption="Reminder Options" display_value="Reminder Options" name="x_147020_billtrack_new_bill" sys_domain="global" view="Default view">10bfc4cb0f5d0300532b06bce1050edf</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-23 14:22:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_147020_billtrack_new_bill</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-23 14:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80ec48b0f5d0300532b06bce1050e0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_147020_billtrack_new_bill</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a80ec48b0f5d0300532b06bce1050e0c</sys_update_name>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-23 14:15:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Credit Cards" max_length="40" name="x_147020_billtrack_credit_cards" type="collection">
+        <element attributes="omit_sys_original=true" label="Balance" max_length="20" name="balance" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Credit Line" max_length="20" name="credit_line" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Bill in due each month" max_length="40" name="date_bill_in_due_each_month" type="string"/>
+        <element attributes="omit_sys_original=true" label="Expected Payment" max_length="20" name="expected_payment" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Last 4 Numbers" max_length="40" name="last_4_numbers" type="string"/>
+        <element attributes="omit_sys_original=true" label="Minimum Payment" max_length="20" name="minimum_payment" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Username" max_length="40" name="username" type="string"/>
+        <element label="Active" max_length="40" name="u_active_1" type="boolean"/>
+        <element label="Due Date" max_length="40" name="u_card_due_date" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Card Name" max_length="40" name="u_card_name" type="string"/>
+        <element label="Card Number" max_length="40" name="u_card_number" type="integer"/>
+        <element label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

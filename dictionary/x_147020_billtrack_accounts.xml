@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Vendors" max_length="40" name="x_147020_billtrack_accounts" type="collection">
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Name" max_length="40" name="u_account_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Vendor name" max_length="40" name="u_bill_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Account type" max_length="40" name="u_choice_12" type="string">
             <choice>
                 <element label="Checking" sequence="0" value="1"/>
-                <element label="Utility Bill" sequence="1" value="3"/>
-                <element label="Credit" sequence="2" value="2"/>
-                <element label="Business Credit" sequence="3" value="4"/>
-                <element label="Mortgage" sequence="4" value="5"/>
+                <element label="Credit" sequence="1" value="2"/>
+                <element label="Savings" sequence="2" value="4"/>
             </choice>
         </element>
         <element label="Monthly Due Date" max_length="40" name="u_due_date_2" type="due_date"/>
