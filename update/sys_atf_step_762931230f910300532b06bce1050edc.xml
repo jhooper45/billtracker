@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Assert a JSON response payload is valid</description>
+        <display_name>Assert Response JSON Payload Is Valid</display_name>
+        <inputs/>
+        <order>4</order>
+        <step_config display_value="Assert Response JSON Payload Is Valid">f100f7079f132200ef4afa7dc67fcf42</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-25 11:20:27</sys_created_on>
+        <sys_id>762931230f910300532b06bce1050edc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assert Response JSON Payload Is Valid</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_atf_step_762931230f910300532b06bce1050edc</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-25 11:20:27</sys_updated_on>
+        <table/>
+        <test display_value="CloudTracker--Get Newly Created Resource via REST API Test copy">ea293d630f110300532b06bce1050e12</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=762931230f910300532b06bce1050edc"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>ATF.User</name>
+        <password>LceF0u2VNu97MaSa+EyjGA==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-26 10:23:41</sys_created_on>
+        <sys_id>51a5b2730f110300532b06bce1050e54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ATF.User</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_51a5b2730f110300532b06bce1050e54</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-26 10:23:41</sys_updated_on>
+        <username>ATF.User</username>
+    </sys_auth_profile_basic>
+</record_update>

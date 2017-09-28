@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_147020_billtrack_credit_cards" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">0e5df0ce0f910300532b06bce1050eeb</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">9fbcfc4e0f910300532b06bce1050ef6</sys_ui_section>
+            <sys_ui_section caption="Register Credit Card" display_value="Register Credit Card" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">9fbcfc4e0f910300532b06bce1050ef6</sys_ui_section>
             <sys_updated_by>jhooper</sys_updated_by>
             <sys_updated_on>2017-09-20 15:08:13</sys_updated_on>
         </sys_ui_form_section>
@@ -28,6 +28,20 @@
             <sys_ui_section caption="Card Details" display_value="Card Details" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">fb7989460fd10300532b06bce1050ecf</sys_ui_section>
             <sys_updated_by>jhooper</sys_updated_by>
             <sys_updated_on>2017-09-20 16:01:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jhooper</sys_created_by>
+            <sys_created_on>2017-09-23 15:05:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a679d8430f9d0300532b06bce1050e0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_147020_billtrack_credit_cards" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">0e5df0ce0f910300532b06bce1050eeb</sys_ui_form>
+            <sys_ui_section caption="Login" display_value="Login" name="x_147020_billtrack_credit_cards" sys_domain="global" view="Default view">a679d8430f9d0300532b06bce1050e0a</sys_ui_section>
+            <sys_updated_by>jhooper</sys_updated_by>
+            <sys_updated_on>2017-09-23 15:05:25</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_147020_billtrack_credit_cards</name>

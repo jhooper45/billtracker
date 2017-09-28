@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_filter_option_dynamic">
+    <sys_filter_option_dynamic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for_default>false</available_for_default>
+        <available_for_filter>false</available_for_filter>
+        <available_for_ref_qual>false</available_for_ref_qual>
+        <field_type/>
+        <filter_by_schedule/>
+        <label>Create Bill</label>
+        <order/>
+        <roles/>
+        <script/>
+        <script_reference_id/>
+        <script_reference_table/>
+        <sys_class_name>sys_filter_option_dynamic</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-24 11:52:29</sys_created_on>
+        <sys_id>87c638570f194300532b06bce1050e7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Bill</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_filter_option_dynamic_87c638570f194300532b06bce1050e7d</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-24 11:52:29</sys_updated_on>
+        <table>x_147020_billtrack_bills_due</table>
+        <table_containing_filter/>
+    </sys_filter_option_dynamic>
+</record_update>

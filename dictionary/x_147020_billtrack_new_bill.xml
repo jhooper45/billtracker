@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="New Bill" max_length="40" name="x_147020_billtrack_new_bill" type="collection">
+        <element dependent="u_string_1" dependent_on_field="u_string_1" label="Bill Number" max_length="32" name="bill_number" type="document_id" use_dependent_field="true"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Accounts" max_length="32" name="u_accounts_from" reference="x_147020_billtrack_accounts" type="reference"/>
         <element attributes="omit_sys_original=true" default="0" label="Amount Due" max_length="20" name="u_amount_due" type="currency"/>
@@ -28,6 +29,9 @@
         </index>
         <index name="index2">
             <element name="u_category_bill"/>
+        </index>
+        <index name="index3">
+            <element name="bill_number"/>
         </index>
     </element>
 </database>

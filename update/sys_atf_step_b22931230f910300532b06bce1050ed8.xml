@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Assert a response status code is '200'</description>
+        <display_name>Assert Status Code</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Assert Status Code">2f4fa7309f132200ef4afa7dc67fcf0f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-25 11:20:27</sys_created_on>
+        <sys_id>b22931230f910300532b06bce1050ed8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assert Status Code</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_atf_step_b22931230f910300532b06bce1050ed8</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-25 11:20:27</sys_updated_on>
+        <table/>
+        <test display_value="CloudTracker--Get Newly Created Resource via REST API Test copy">ea293d630f110300532b06bce1050e12</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b22931230f910300532b06bce1050ed8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b22931230f910300532b06bce1050ed8</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-25 11:20:27</sys_created_on>
+        <sys_id>b62931230f910300532b06bce1050ed9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-25 11:20:27</sys_updated_on>
+        <value>200</value>
+        <variable display_value="">9f5f67709f132200ef4afa7dc67fcf94</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b22931230f910300532b06bce1050ed8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-25 11:20:27</sys_created_on>
+        <sys_id>f22931230f910300532b06bce1050ed9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-25 11:20:27</sys_updated_on>
+        <value>equals</value>
+        <variable display_value="">1d94cb1f3b8032000774229c93efc419</variable>
+    </sys_variable_value>
+</record_update>

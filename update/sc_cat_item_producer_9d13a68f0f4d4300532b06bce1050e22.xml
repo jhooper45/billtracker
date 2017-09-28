@@ -61,7 +61,7 @@
         <sys_updated_by>jhooper</sys_updated_by>
         <sys_updated_on>2017-09-11 14:53:01</sys_updated_on>
         <table_name>x_147020_billtrack_accounts</table_name>
-        <template display_value="TEMPLATE2">734362cf0f4d4300532b06bce1050ea0</template>
+        <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

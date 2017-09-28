@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_category_bill" table="x_147020_billtrack_new_bill">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_new_bill_number" table="x_147020_billtrack_bills_due">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Category</column_label>
+        <column_label>Bill Number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -23,18 +23,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_category_bill</element>
+        <element>u_new_bill_number</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <name>x_147020_billtrack_new_bill</name>
+        <name>x_147020_billtrack_bills_due</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_147020_billtrack_categories">x_147020_billtrack_categories</reference>
+        <reference display_value="" name="x_147020_billtrack_new_bill">x_147020_billtrack_new_bill</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,16 +46,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jhooper</sys_created_by>
-        <sys_created_on>2017-09-23 14:15:19</sys_created_on>
-        <sys_id>b40ec48b0f5d0300532b06bce1050e32</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Category</sys_name>
+        <sys_created_on>2017-09-24 12:47:02</sys_created_on>
+        <sys_id>1163855f0f194300532b06bce1050e3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bill Number</sys_name>
         <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
         <sys_policy/>
         <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
-        <sys_update_name>sys_dictionary_x_147020_billtrack_new_bill_u_category_bill</sys_update_name>
+        <sys_update_name>sys_dictionary_x_147020_billtrack_bills_due_u_new_bill_number</sys_update_name>
         <sys_updated_by>jhooper</sys_updated_by>
-        <sys_updated_on>2017-09-24 12:19:54</sys_updated_on>
+        <sys_updated_on>2017-09-24 12:47:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

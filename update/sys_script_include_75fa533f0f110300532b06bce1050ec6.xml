@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_147020_billtrack.bill_date</api_name>
+        <client_callable>true</client_callable>
+        <description>Pass current GlideDate to client</description>
+        <name>bill_date</name>
+        <script><![CDATA[		var bill_Date = Class.create();
+bill_date.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	helloWorld: function (){
+		var tday = new GlideDate();
+		tday.getDayOfMonthNoTZ();
+		
+	return "Hello" + "," + " today" + " is" + ":";	
+	},
+	
+	todayIs: function() {
+		var today = new GlideDate();
+	return today.getMonthNoTZ();
+	},
+
+    type: 'bill_date'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-26 13:14:23</sys_created_on>
+        <sys_id>75fa533f0f110300532b06bce1050ec6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>bill_date</sys_name>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>sys_script_include_75fa533f0f110300532b06bce1050ec6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-26 14:16:56</sys_updated_on>
+    </sys_script_include>
+</record_update>

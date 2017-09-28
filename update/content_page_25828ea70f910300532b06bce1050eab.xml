@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-09-28 15:38:56">
+    <sys_portal action="delete_multiple" query="page=25828ea70f910300532b06bce1050eab">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>3</dropzone>
+                <offset>2</offset>
+                <page display_value="">25828ea70f910300532b06bce1050eab</page>
+                <summary/>
+                <sys_created_by>jhooper</sys_created_by>
+                <sys_created_on>2017-09-25 12:01:59</sys_created_on>
+                <sys_id>25a202e70f910300532b06bce1050e03</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>jhooper</sys_updated_by>
+                <sys_updated_on>2017-09-25 12:01:59</sys_updated_on>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="jonah's page">07228aa70f910300532b06bce1050e82</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>false</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>Looking</name>
+        <order/>
+        <parent_page display_value="BillTracker">8f4eba4d0f418300532b06bce1050ebd</parent_page>
+        <read_roles>public</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>jhooper</sys_created_by>
+        <sys_created_on>2017-09-25 12:01:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25828ea70f910300532b06bce1050eab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Looking</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BillTracker" source="x_147020_billtrack">732324c90fc94300532b06bce1050ef4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BillTracker">732324c90fc94300532b06bce1050ef4</sys_scope>
+        <sys_update_name>content_page_25828ea70f910300532b06bce1050eab</sys_update_name>
+        <sys_updated_by>jhooper</sys_updated_by>
+        <sys_updated_on>2017-09-25 12:02:20</sys_updated_on>
+        <title/>
+        <url_suffix/>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>
