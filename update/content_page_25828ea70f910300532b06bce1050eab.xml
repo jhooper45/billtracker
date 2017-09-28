@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="content_page" unload_date="2017-09-28 15:38:56">
+<record_update node_type="content_page" unload_date="2017-09-28 15:43:13">
     <sys_portal action="delete_multiple" query="page=25828ea70f910300532b06bce1050eab">
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
